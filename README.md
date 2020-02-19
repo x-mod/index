@@ -9,7 +9,8 @@
 - [x-mod/build](https://github.com/x-mod/build) - 项目版本信息控制包 - [Blog](https://www.gitdig.com/go-build-version/)
 - [x-mod/cmd](https://github.com/x-mod/cmd) - 更快速的命令行辅助包 - [Blog](https://www.gitdig.com/go-command-line-lib/)
 - [x-mod/errors](https://github.com/x-mod/errors) - 多功能错误辅助包 - [Blog](https://www.gitdig.com/x-mod-errors/)
-- [x-mod/event](https://github.com/x-mod/event) - 事件信号辅助包
+- [x-mod/event](https://github.com/x-mod/event) - 事件触发辅助包
+- [x-mod/sigtrap](https://github.com/x-mod/sigtrap) - 系统信号辅助包
 - [x-mod/routine](https://github.com/x-mod/routine) - 协程控制、主函数辅助包
 - [x-mod/tlsconfig](https://github.com/x-mod/tlsconfig) - 证书设置辅助包 - [Blog](https://www.gitdig.com/generate-certs-and-mTLS/)
 
