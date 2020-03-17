@@ -9,6 +9,7 @@
 - [x-mod/build](https://github.com/x-mod/build) - 项目版本信息控制包 - [Blog](https://www.gitdig.com/go-build-version/)
 - [x-mod/cmd](https://github.com/x-mod/cmd) - 更快速的命令行辅助包 - [Blog](https://www.gitdig.com/go-command-line-lib/)
 - [x-mod/errors](https://github.com/x-mod/errors) - 多功能错误辅助包 - [Blog](https://www.gitdig.com/x-mod-errors/)
+- [x-mod/glog](https://github.com/x-mod/glog) - 级别日志 glog 改造 - [Blog](https://www.gitdig.com/go-xmod-glog/)
 - [x-mod/event](https://github.com/x-mod/event) - 事件触发辅助包
 - [x-mod/sigtrap](https://github.com/x-mod/sigtrap) - 系统信号辅助包
 - [x-mod/routine](https://github.com/x-mod/routine) - 协程控制、主函数辅助包
@@ -20,9 +21,9 @@
 - [x-mod/thriftudp](https://github.com/x-mod/thriftudp) - thriftudp 快速构建框架 - [Blog](https://www.gitdig.com/go-udp-thrift-server/)
 - [x-mod/httpclient](https://github.com/x-mod/httpclient) - httpclient 请求、响应辅助包
 
+## 项目图解
+
+- [x-mod/images](https://github.com/x-mod/images) - 图解 x-mod 项目
+
 ## 工具
 
-## TODO
-
-- 完成每个库原理与实现的 **Blog**
-- 增加更多实用库的实现
