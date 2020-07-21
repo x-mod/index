@@ -10,7 +10,7 @@
 - [x-mod/cmd](https://github.com/x-mod/cmd) - 更快速的命令行辅助包 - [Blog](https://www.gitdig.com/post/2019-08-24-go-cmmand-line-lib/)
 - [x-mod/errors](https://github.com/x-mod/errors) - 多功能错误辅助包 - [Blog](https://www.gitdig.com/post/2020-02-08-x-mod-errors/)
 - [x-mod/glog](https://github.com/x-mod/glog) - 级别日志 glog 改造 - [Blog](https://www.gitdig.com/post/2020-03-17-x-mod-glog/)
-- [x-mod/event](https://github.com/x-mod/event) - 事件触发辅助包
+- [x-mod/event](https://github.com/x-mod/event) - 事件触发辅助包 - [Blog](https://www.gitdig.com/post/go-schedule-control/)
 - [x-mod/sigtrap](https://github.com/x-mod/sigtrap) - 系统信号辅助包 - [Blog](https://www.gitdig.com/post/2020-02-22-x-mod-sigtrap/)
 - [x-mod/routine](https://github.com/x-mod/routine) - 协程控制、主函数辅助包 - [Blog](https://www.gitdig.com/post/go-routine/)
 - [x-mod/tlsconfig](https://github.com/x-mod/tlsconfig) - 证书设置辅助包 - [Blog](https://www.gitdig.com/post/2019-08-26-generate-certs-mTLS/)
@@ -20,10 +20,8 @@
 - [x-mod/tcpserver](https://github.com/x-mod/tcpserver) - tcpserver 快速构建框架 - [Blog](https://www.gitdig.com/post/2019-07-26-go-tcpserver-graceful-shutdown/)
 - [x-mod/thriftudp](https://github.com/x-mod/thriftudp) - thriftudp 快速构建框架 - [Blog](https://www.gitdig.com/post/2019-08-11-go-udp-thrift-server/)
 - [x-mod/httpclient](https://github.com/x-mod/httpclient) - httpclient 请求、响应辅助包
+- [x-mod/httpserver](https://github.com/x-mod/httpclient) - httpserver 
 
-## 项目图解
-
-- [x-mod/images](https://github.com/x-mod/images) - 图解 x-mod 项目
 
 ## 工具
 
